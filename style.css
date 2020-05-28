@@ -7,7 +7,11 @@ body {
 h1 {
   color: #f00;
 }
+<<<<<<< HEAD
 
 h3 {
   color: #0f0;
+h2 {
+  color: red;
+>>>>>>> 5d298b89af593a1f9a3d4aeef0e570cf0bfa8c33
 }
