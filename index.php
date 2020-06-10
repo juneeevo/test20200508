@@ -10,4 +10,4 @@ Narusawa test
 
 0522 add no02
 
-Naru 0610 add
+0610 add
